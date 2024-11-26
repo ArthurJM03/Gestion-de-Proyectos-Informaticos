@@ -30,7 +30,7 @@ El repositorio está estructurado de la siguiente manera:
 Estos archivos puede abrirse mediante cualquier editor de texto, ya sean .txt o visualizador de archivos PDF o .docx de  Para utilizar este repositorio, simplemente realiza una clonación del mismo en tu máquina local utilizando el siguiente comando:
 
 ```bash
-git clone https://github.com/AshurJM03/Gestion-de-Proyectos-Informaticos.git
+git clone https://github.com/ArthurJM03/Gestion-de-Proyectos-Informaticos.git
 
 # Acceder al directorio
 cd Gestion-de-Proyectos-Informaticos
