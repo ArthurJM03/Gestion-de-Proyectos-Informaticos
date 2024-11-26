@@ -1,0 +1,10 @@
+Riesgos en la Gestión de Proyectos Informáticos
+Identificación de riesgos
+
+El primer paso en la gestión de riesgos es identificar los posibles obstáculos y amenazas que podrían afectar al proyecto, tales como problemas técnicos, retrasos en los plazos, o cambios en los requisitos del cliente.
+Análisis de riesgos
+
+Una vez identificados, los riesgos deben analizarse para comprender su impacto y probabilidad de ocurrencia. Esto ayuda a priorizar los riesgos que requieren atención inmediata.
+Mitigación de riesgos
+
+Para cada riesgo identificado, se deben definir estrategias de mitigación que minimicen su impacto. Esto puede incluir la implementación de planes de contingencia, la asignación de recursos adicionales o la adopción de nuevas tecnologías.
